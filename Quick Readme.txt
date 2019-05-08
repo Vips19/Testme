@@ -1,1 +1,2 @@
 checking git commit and remote server .
+done tested for both end
